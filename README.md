@@ -3,6 +3,5 @@
 testing
 from local
 dvskjb 
-=======
-testing 
->>>>>>> parent of 85b7ec2... local changes
+
+merge conflict
