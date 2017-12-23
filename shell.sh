@@ -8,3 +8,5 @@ echo " changed file now"
 echo `date`
 
 echo " avinash"
+
+echo " bit understood"
